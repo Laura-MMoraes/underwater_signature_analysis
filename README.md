@@ -6,4 +6,3 @@ Analysis of sonar images
 
 
 
-
